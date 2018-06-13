@@ -1,0 +1,113 @@
+{
+"name":"khushahal sharma",
+"image":"assets/images/khushahalimg.jpg",
+"carrerProfile":"Dynamic and motivated professional with a proven record of generating and building relationships, managing projects from concept to completion, designing educational strategies, and coaching individuals to success. Skilled in building cross-functional teams, demonstrating exceptional communication skills, and making critical decisions during challenges. Adaptable and transformational leader with an ability to work independently, creating effective presentations, and developing opportunities that further establish organizational goals",
+"developerType":"Full Stack Developer",
+"email":"khushahaltamara@gmail.com",
+"phone":"+91 8824313104",
+"website":"khushahalsharma.com",
+"github":"https://github.com/khushahal",
+"linkedIn":"https://www.linkedin.com/in/khushahal-sharma/",
+"experience":[
+	{
+		"title":"software Developer",
+		"period":"Oct 2017 - present",
+		"company":"Qss Technologiy pvt ltd NOida",
+		"companyUrl":"http://qss.com",
+		"details":"Responsible for creating new dashboards widgets along wiht backend apis and bug fixes.Mainly Work on React.js and Node.js Technology stack"
+	} ,
+	{
+		"title":"software Developer",
+		"period":"Jan 2017 - jun 2017",
+		"company":"innologic Lab Gurgaon",
+		"companyUrl":"http://innologic.in",
+		"details":"Part in a Team to develope whole Web App from scratch .Responsible for some Tasks Which includes Fronted end and Backend Both.Mainly Used C# MVC and linq trechnology stack."
+	} ,
+	{
+		"title":"Android Developer",
+		"period":"Jan 2015 - jun 2017",
+		"company":"veglele Jaipur",
+		"companyUrl":"http://veglele.in",
+		"details":"it was my Startup Project.it was Developed  for farmer to buyers design pattern.used java as technology stack."
+	} 
+ ],
+
+"projects":[
+	{
+		"name":"Vegele",
+		"url":"http://veglele.com",
+		"details":"android project"
+	},
+	{
+		"name":"Wehire",
+		"url":"http://wehire.com",
+		"details":"java based project mainly focus on hiring"
+	},
+	{
+		"name":"Eldermark ",
+		"url":"http://eldermark.com",
+		"details":"javascript project react.js , node.js , graphql , wakanda.io , mysql etc project"
+	},
+	{
+		"name":"Delta",
+		"url": "http://programmingbuddy.club",
+		"detail": "A responsive website template designed to help startups promote, market and sell their products."
+	}
+],
+"skills":[
+	{
+		"name":"java",
+		"percent":"70%"
+	},
+	{
+		"name":"Android",
+		"percent":"97%"
+	},
+	{
+		"name":"javascritp",
+		"percent":"80%"
+	},
+	{
+		"name":"node.js",
+		"percent":"99%"
+	},
+	{
+		"name":"react.js",
+		"percent":"95%"
+	},
+	{
+		"name":"graphql",
+		"percent":"60%"
+	}
+
+],
+"education": [
+		{
+			"degree": "BCA in Computer Application",
+			"university": "University of Rajasthan",
+			"period": "2011 - 2014"
+		},
+		{
+			"degree": "MCA in Computer Application",
+			"university": "Rajasthan Technicahl University",
+			"period": "2014 - 2017"
+		}
+	],
+"language":[
+	{
+	"name":"English",
+	"details":"Profesional"
+      },
+      {
+			"name":"Hindi",
+			"details": "Native"
+	}   
+],
+	"interests": [
+		"Climbing",
+		"Watchig News",
+		"Cooking",
+		"Coding"
+	]
+
+}
